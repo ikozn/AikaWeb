@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.48b6e06cf2505248e793c71f3348fd5a.js"
+  "precache-manifest.41e6316145870d79bda7fd9e2481f137.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "aika"});
